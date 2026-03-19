@@ -5,4 +5,4 @@ Leetcode submissions
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sonika12)
 ## 🚀 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sonika12?theme=dark&font=baloo&ext=contest)
